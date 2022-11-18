@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArshErgon/awesome-profiles-readme.git"
+    "url": "git+https://github.com/OnCampus-Community/awesome-profiles-readme.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ArshErgon/awesome-profiles-readme/issues"
+    "url": "https://github.com/OnCampus-Community/awesome-profiles-readme/issues"
   },
-  "homepage": "https://github.com/ArshErgon/awesome-profiles-readme#readme",
+  "homepage": "https://github.com/OnCampus-Community/awesome-profiles-readme#readme",
   "devDependencies": {
     "prettier": "2.3.2"
   }
