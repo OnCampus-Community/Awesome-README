@@ -23,7 +23,7 @@ Feel free to submit a [pull request](https://github.com/OnCampus-Community/aweso
 
 ## How can I add my GitHub profile? 🤷‍♀️🤷‍♂️
 
-1. Create an [issue](https://github.com/OnCampus-Community/awesome-github-profiles/issues), with the title as your name, and in the description put a screenshot of the customised GitHub profile page (copy the generated image URL, this will be needed in the next step)
+1. Create an [issue](https://github.com/OnCampus-Community/Awesome-ReadMe-Profile//issues), with the title as your name, and in the description put a screenshot of the customised GitHub profile page (copy the generated image URL, this will be needed in the next step)
 
 2. Fork the project, using the top right corner button, that states `fork`
 
@@ -40,7 +40,7 @@ Feel free to submit a [pull request](https://github.com/OnCampus-Community/aweso
 }
 ```
 
-4. Create a [Pull Request](https://github.com/OnCampus-Community/awesome-github-profiles/pulls) to add the changes to this repository. Please change the title to `fix: add <your-username>` and in the description add `resolve #issueNumber` eg: ```fix: arshergon resolve #1```
+4. Create a [Pull Request](https://github.com/OnCampus-Community/Awesome-ReadMe-Profile/pulls) to add the changes to this repository. Please change the title to `fix: add <your-username>` and in the description add `resolve #issueNumber` eg: ```fix: arshergon resolve #1```
 
 
 ## Check out our awesome profiles [here](profiles.md)
