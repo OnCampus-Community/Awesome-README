@@ -1,6 +1,6 @@
 # Awesome GitHub profiles
 
-[![Read/Write profiles' data](https://github.com/OnCampus-Community/awesome-github-profiles/actions/workflows/main.yml/badge.svg)](https://github.com/OnCampus-Community/awesome-github-profiles/actions/workflows/main.yml)
+[![Read/Write profiles' data](https://github.com/OnCampus-Community/awesome-github-profiles/actions/workflows/main.yml/badge.svg)](https://github.com/OnCampus-Community/Awesome-README/blob/main/.github/workflows/main.yml)
 
 List of GitHub profiles that have awesome customization, that you can use for inspiration.\
 Feel free to submit a [pull request](https://github.com/OnCampus-Community/awesome-github-profiles/pulls) with your suggestions for awesome GitHub profiles.
